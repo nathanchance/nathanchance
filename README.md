@@ -1,0 +1,5 @@
+Hello! My name is Nathan, a 25 year old Linux kernel hacker, currently working as an independent contractor for [The Linux Foundation](https://linuxfoundation.org/).
+
+I help maintain [ClangBuiltLinux](https://clangbuiltlinux.github.io)'s [continuous integration](https://github.com/ClangBuiltLinux/continuous-integration2), [booting utilities](https://github.com/ClangBuiltLinux/boot-utils), and [toolchain build scripts](https://github.com/ClangBuiltLinux/tc-build). I have [a few hundread patches](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=Nathan+Chancellor) in the Linux kernel and I am a co-maintainer of the Clang/LLVM build support.
+
+My [resume](https://nathanchance.dev/nc_resume.pdf) is available on [my website](https://nathanchance.dev/), where there are links to all of my social media accounts and [my blog](https://nathanchance.dev/posts/), where I occasionally share things that I have found interesting. Feel free to reach out to me there or via email if you have any questions about my work!
