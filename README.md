@@ -1,4 +1,4 @@
-Hello! My name is Nathan, a 25 year old Linux kernel hacker, currently working as an independent contractor for [The Linux Foundation](https://linuxfoundation.org/).
+Hello! My name is Nathan, a 26 year old Linux kernel hacker, currently working as an independent contractor for [The Linux Foundation](https://linuxfoundation.org/).
 
 I help [maintain](https://git.kernel.org/linus/b9644289657748314dbfe6502c316b3f09e251ed) [ClangBuiltLinux](https://clangbuiltlinux.github.io), resulting in [a few hundred patches](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=Nathan+Chancellor) to the Linux kernel and [a few patches](https://github.com/llvm/llvm-project/commits/main?author=nathanchance) to LLVM. I have contributed to ClangBuiltLinux's [continuous integration](https://github.com/ClangBuiltLinux/continuous-integration2) and wrote most of the [booting utility scripts](https://github.com/ClangBuiltLinux/boot-utils) and [toolchain build scripts](https://github.com/ClangBuiltLinux/tc-build).
 
